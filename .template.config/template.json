@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Josiah",
+  "classifications": [ "Console", "C#" ],
+  "identity": "Josiah.AdventOfCode",
+  "name": "Advent of Code Solution",
+  "shortName": "aoc",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "AdventOfCodeTemplate",
+  "preferNameDirectory": true
+}

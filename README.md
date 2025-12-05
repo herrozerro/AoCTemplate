@@ -1,1 +1,1 @@
-# AoCTemplate
+# AdventOfCodeTemplate
